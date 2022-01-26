@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamedalicode
+- 👋 Hi, I’m mohamed ali
 - 👀 I’m interested in Building apps
 - 🌱 I’m currently learning Flutter SDK and Firebase to build fullstack apps
 - 💞️ I’m looking to collaborate on ...
