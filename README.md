@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohamed ali
-- 👀 I’m interested in Building apps
+- 👀 I’m interested in Solving People's Problems
 - 🌱 I’m currently learning Flutter SDK and Firebase to build fullstack apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
